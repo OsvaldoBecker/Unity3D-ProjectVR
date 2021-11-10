@@ -6,7 +6,7 @@ The project still needs a name.
 - Ana Carolina Bertoletti De Marchi (completion work advisor)
 
 #### Compiled for Android:
-- It has the UI in Brazilian Portuguese.
+- It has the UI in Brazilian Portuguese (English to be added soon).
 - It has an exploratory environment with places to unlock.
 - It has 6 minigames and 1 menu to change the time of day.
 - It has relaxation and meditation music.
