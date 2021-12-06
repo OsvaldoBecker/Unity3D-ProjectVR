@@ -13,7 +13,7 @@ The project still needs a name.
 
 #### Basic requirements:
 - OpenGL ES 3.1 or higher
-- Android 6.0 or higher
+- Android 7.0 or higher
 - Processor architecture ARMv7 or ARM64
 - Powerful or relatively powerful smartphone
 - VR glasses to attach the smartphone
