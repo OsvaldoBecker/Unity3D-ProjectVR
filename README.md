@@ -18,7 +18,8 @@ The project still needs a name.
 - Powerful or relatively powerful smartphone
 - VR glasses to attach the smartphone
 
-## Demo (soon there will be a video instead of photos)
+
+## Demo (Preview video [here](https://drive.google.com/file/d/1d3EjsDCcXmr3pnE5ly_4CJ6XlWGcuv13/view))
 ![](Screenshot1.png)
 ![](Screenshot2.png)
 ![](Screenshot3.png)
