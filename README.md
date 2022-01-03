@@ -1,5 +1,7 @@
-## Project VR: A Virtual Reality game for cognitive engagement and mindfulness meditation
+## Project VR: A Virtual Reality game for the treatment of chronic pain
 The game doesn't have a name yet, as it was a course completion work project.
+
+*Virtual Reality demonstrates potential for therapeutic treatment in patients suffering from acute and chronic pain conditions. However, interventions with Virtual Reality generally use games and/or applications not adapted for the treatment and that depend on devices that are expensive for the majority of the population. Therefore, the objective of this work was to develop a Virtual Reality game for the treatment of chronic pain, with a focus on **cognitive engagement** and **mindfulness meditation**, and aimed at smartphones. In addition, a pilot test was conducted with a physical therapist to identify their perception of the game. The results showed that the game can provide an immersive, distracting and relaxing experience. In conclusion, the game can be useful as a tool for the treatment of chronic pain, but further evaluations need to be carried out.*
 
 #### Authors: 
 - Osvaldo Henrique Cemin Becker (who developed the game)
