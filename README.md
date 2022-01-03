@@ -1,5 +1,5 @@
 ## Project VR: A Virtual Reality game for cognitive engagement and mindfulness meditation
-The project still needs a name.
+The game doesn't have a name yet, as it was a course completion work project.
 
 #### Authors: 
 - Osvaldo Henrique Cemin Becker (who developed the game)
@@ -15,8 +15,8 @@ The project still needs a name.
 - OpenGL ES 3.1 or higher
 - Android 7.0 or higher
 - Processor architecture ARMv7 or ARM64
-- Powerful or relatively powerful smartphone
-- VR glasses to attach the smartphone
+- Powerful or relatively powerful smartphone (due to the big scenery in VR)
+- VR headset to attach the smartphone
 
 
 ## Demo (Preview video [here](https://drive.google.com/file/d/1d3EjsDCcXmr3pnE5ly_4CJ6XlWGcuv13/view))
@@ -29,7 +29,7 @@ The project still needs a name.
 ![](Screenshot7.png)
 
 ## Tools
-Developed using a VRG Pro (Virtual Reality Glasses) and a Galaxy S20FE SM-G780G
+Developed using a VRG Pro (Virtual Reality Glasses) and a Galaxy S20FE SM-G780G.
 
 #### Softwares:
 - Unity 3D with C#
