@@ -1,11 +1,12 @@
 ## Project VR: A Virtual Reality game for the treatment of chronic pain
-The game doesn't have a name yet, as it was a course completion work project.
+The game doesn't have a name yet, as it was a project for term paper.
 
+#### Term Paper Summary: 
 *Virtual Reality demonstrates potential for therapeutic treatment in patients suffering from acute and chronic pain conditions. However, interventions with Virtual Reality generally use games and/or applications not adapted for the treatment and that depend on devices that are expensive for the majority of the population. Therefore, the objective of this work was to develop a Virtual Reality game for the treatment of chronic pain, with a focus on **cognitive engagement** and **mindfulness meditation**, and aimed at smartphones. In addition, a pilot test was conducted with a physical therapist to identify their perception of the game. The results showed that the game can provide an immersive, distracting and relaxing experience. In conclusion, the game can be useful as a tool for the treatment of chronic pain, but further evaluations need to be carried out.*
 
 #### Authors: 
 - Osvaldo Henrique Cemin Becker (who developed the game)
-- Ana Carolina Bertoletti De Marchi (completion work advisor)
+- Ana Carolina Bertoletti De Marchi (term paper advisor)
 
 #### Compiled for Android:
 - It has the UI in Brazilian Portuguese (English to be added soon).
@@ -17,7 +18,7 @@ The game doesn't have a name yet, as it was a course completion work project.
 - OpenGL ES 3.1 or higher
 - Android 7.0 or higher
 - Processor architecture ARMv7 or ARM64
-- Powerful or relatively powerful smartphone (due to the big scenery in VR)
+- Smartphone with performance similar to the Galaxy S20FE SM-G780G (due to the big scenario in VR, to be optimized soon)
 - VR headset to attach the smartphone
 
 
